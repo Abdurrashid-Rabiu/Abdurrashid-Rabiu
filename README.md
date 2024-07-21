@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdurrashid-Rabiu
 - 👀 I’m a web developer
-- 🌱 I have years of experience in PHP, JavaScript, jQuery, Bootstrap, Laravel and Vue.js
-- 💞️ I’m looking to collaborate on web development projects with PHP, JavaScript, Bootstrap, Laravel and vue.js.
+- 🌱 I have years of experience in PHP, JavaScript, jQuery, Bootstrap, Laravel, Vue.js, and Yii PHP
+- 💞️ I’m looking to collaborate on web development projects with PHP, JavaScript, Bootstrap, Laravel, vue.js and Yii.
 - 📫 How to reach me. Email: abdurrashidrabiu94@gmail.com
 
 <!---
